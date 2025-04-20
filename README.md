@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/86353551-7d70-4502-8cac-e66a05291782/deploy-status)](https://app.netlify.com/sites/seedtodata/deploys)
