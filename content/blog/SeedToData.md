@@ -77,6 +77,8 @@ Are you passionate about agricultural innovation, data science, or rural develop
 
 I believe that by combining our diverse skills and perspectives, we can create something truly valuable for Indian agriculture. This isn't just about collecting data—it's about empowering farmers with information that can improve their livelihoods.
 
-If you're interested in being part of this founding community, please reach out to discuss how your unique skills can contribute. Whether you can offer a few hours of consultation or want to take on a more significant role, your input is valuable.
+If you're interested in being part of this founding community, please reach out to discuss how your unique skills can contribute. Whether you can offer a few hours of consultation or want to take on a more significant role, your input is valuable. 
+
+To join our efforts or provide feedback, please email: **discussions@seedtodata.org**
 
 Let's work together to bridge the gap between traditional farming wisdom and technological innovation. Join me in building the SeedToData platform that will serve generations of Indian farmers to come.
