@@ -12,4 +12,6 @@ The goal? To empower farmers, researchers, and innovators with the data they nee
 
 We're building a community of technologists, agricultural experts, policy thinkers, and grassroots organizers to bring this vision to life. If you're passionate about rural development, open data, or agri-tech, join us and help shape the future of farming in India.
 
+_To join our efforts or provide feedback, please email: **discussions@seedtodata.org**_
+
 🔗 [Be a part of the change. Reach out and get involved today.](/seedtodata/)
