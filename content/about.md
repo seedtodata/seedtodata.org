@@ -1,6 +1,6 @@
 +++
-title=About
-menu=main
+title="About"
+menu="main"
 +++
 # Vission
 To democratize agricultural data in India, creating a future where technology and traditional farming wisdom work together to ensure sustainable, productive agriculture accessible to all.
